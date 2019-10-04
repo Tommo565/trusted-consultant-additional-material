@@ -18,6 +18,7 @@ Further reading and materials for the Mango Solutions Trusted Consultant trainin
 ### Reading & Tutorials
 
 * [The Pyramid Principle](https://medium.com/lessons-from-mckinsey/the-pyramid-principle-f0885dd3c5c7)
+* [The Rule of Three](https://medium.com/lessons-from-mckinsey/the-rule-of-3-c1cd82dbc96e)
 * [Symmetry vs Asymmetry](https://www.interaction-design.org/literature/article/symmetry-vs-asymmetry-recalling-basic-design-principles)
 
 
