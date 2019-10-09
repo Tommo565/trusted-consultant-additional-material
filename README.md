@@ -17,7 +17,7 @@ Further reading and materials for the Mango Solutions Trusted Consultant trainin
 
 ### Reading & Tutorials
 
-* [Program Evaluation and Review Technique (PERT)](https://searchsoftwarequality.techtarget.com/definition/PERT-chart)
+* [Program Evaluation and Review Technique (PERT) Estimate](https://www.techrepublic.com/blog/it-consultant/use-pert-technique-for-more-accurate-estimates/)
 * [Planning Poker](https://www.mountaingoatsoftware.com/agile/planning-poker)
 * [Building Rapport](https://www.mindtools.com/pages/article/building-rapport.htm)
 * [The Pyramid Principle](https://medium.com/lessons-from-mckinsey/the-pyramid-principle-f0885dd3c5c7)
