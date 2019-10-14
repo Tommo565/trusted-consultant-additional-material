@@ -21,6 +21,7 @@ Further reading and materials for the Mango Solutions Trusted Consultant trainin
 * [Program Evaluation and Review Technique (PERT) Estimate](https://www.techrepublic.com/blog/it-consultant/use-pert-technique-for-more-accurate-estimates/)
 * [Planning Poker](https://www.mountaingoatsoftware.com/agile/planning-poker)
 * [Eduardo Contreras Words that Inspire Talk from EARL](https://earlconf.com/assets/slides/Weds%2011%20Sept/Stream%203%20session%203/Eduardo%20Cortes.pptx)
+* [The Steelman Argument](https://constantrenewal.com/steel-man/)
 * [The Pyramid Principle](https://medium.com/lessons-from-mckinsey/the-pyramid-principle-f0885dd3c5c7)
 * [The Rule of Three](https://medium.com/lessons-from-mckinsey/the-rule-of-3-c1cd82dbc96e)
 * [Symmetry vs Asymmetry](https://www.interaction-design.org/literature/article/symmetry-vs-asymmetry-recalling-basic-design-principles)
